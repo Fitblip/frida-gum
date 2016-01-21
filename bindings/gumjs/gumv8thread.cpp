@@ -84,7 +84,7 @@ _gum_v8_thread_finalize (GumV8Thread * self)
 
 /*
  * Prototype:
- * TBW
+ * Thread.backtrace(context, backtracer)
  *
  * Docs:
  * TBW
